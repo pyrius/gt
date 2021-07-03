@@ -1,5 +1,5 @@
-#===test line1
-#===test line 2
+# ===Program to find whether sum of two elements of array is equal to an entered value
+# ===Version with difference
 def twoSum(nums, target):
     seen = {}
     for i, v in enumerate(nums):
