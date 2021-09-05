@@ -1,1 +1,2 @@
 simple scnd test
+hi
