@@ -1,2 +1,2 @@
 simple scnd test
-hi
+replacing hi with another hi
